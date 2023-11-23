@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59d9ffb6-e5d3-48db-a1e8-0c58a01c6570" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/hardstyl3r/zderzenia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/hardstyl3r/zderzenia/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
@@ -81,7 +83,7 @@
       <workItem from="1700594286576" duration="409000" />
       <workItem from="1700767076325" duration="372000" />
       <workItem from="1700767457274" duration="112000" />
-      <workItem from="1700767577997" duration="2595000" />
+      <workItem from="1700767577997" duration="3741000" />
     </task>
     <servers />
   </component>
